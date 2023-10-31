@@ -9,8 +9,8 @@ Focus is on code that is:
 - Uniform (contributes to the above)
 
 ## General rules
+- camelCase  for: everything else than what's mentioned in the line below.
 - PascalCase for: classes, constants, enums, non-private statics.
-- camelCase  for: everything else than what's above.
 - Never use CAPS.
 - Avoid magic numbers. (todo: elaborate and/or add examples)
 - When declaring things at class-scope & if lines are not separated by a blank row: Align the indentation of keywords, types, assignments, semicolons. (picture example: TODO)
