@@ -1,5 +1,5 @@
 # csharp-gamedev-coding-convention
-A coding convention based on my personal experiences on what provides optimal clarity & least cognitive load.
+A coding convention based on my personal experiences on what provides optimal clarity & least cognitive load, for me personally.
 
 Writing code is an iterative process, therefore you shouldn't be worried if you don't strictly abide what's written here. Just try to spot opportunities to refactor your code whenever you can.
 
