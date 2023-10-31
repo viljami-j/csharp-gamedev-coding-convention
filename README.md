@@ -53,7 +53,7 @@ private static readonly Dictionary _commandToAliasRelations = new();
 ```
 
 ```csharp
-// Bad - way messier, takes my brain longer to parse.
+// Bad - messier, takes my brain longer to parse.
 const string ToggleAction = "ToggleConsole";
 const string SendLineAction = "SendLine";
 const string SpectateLeftAction = "SpectateLeft";
