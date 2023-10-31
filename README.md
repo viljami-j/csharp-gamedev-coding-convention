@@ -1,5 +1,5 @@
 # csharp-gamedev-coding-convention
-A coding convention based on my personal experiences on what provides the optimal clarity & least cognitive load.
+A coding convention based on my personal experiences on what provides optimal clarity & least cognitive load.
 
 Focus is on code that is:
 - Self-commenting
