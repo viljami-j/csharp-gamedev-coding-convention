@@ -64,9 +64,9 @@ public const string SpectateGroup = "CanSpectate";
 
 const string ImaginaryVariable = "1";
 
-private static bool        _isSpectating = false;
+private static bool _isSpectating = false;
 private static Array<Node> _spectateList;
-private static int         _activeSpectateIdx;
+private static int _activeSpectateIdx;
 
 public static Console Instance;
 
