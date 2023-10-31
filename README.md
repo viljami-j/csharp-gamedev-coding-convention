@@ -1,5 +1,10 @@
 # csharp-gamedev-coding-convention
-A coding convention based on my personal experiences on what provides the most optimal clarity.
+A coding convention based on my personal experiences on what provides the optimal clarity & least cognitive load.
+
+Focus is on code that is:
+- Self-commenting
+- Quick to parse
+- Uniform (contributes to the above)
 
 ## General rules
 - PascalCase for: classes, constants, enums, non-private statics.
