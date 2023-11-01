@@ -1,5 +1,5 @@
 # csharp-gamedev-coding-convention (WIP)
-**Work in Progress**
+**Work in Progress** - therefore, this convention may not currently be the easiest to follow.
 
 A coding convention based on my personal experience on what provides optimal clarity & least cognitive load, for me personally.
 
