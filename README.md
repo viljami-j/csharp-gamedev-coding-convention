@@ -97,8 +97,8 @@ int someMysteriousPieceOfCode = 1;
 todo
 
 ### Todo
-- Attempt writing an auto-formatter
-- Add more examples
-- Elaborate stuff
+- Attempt writing an auto-formatter once this document is the bare minimum that qualifies as sufficient.
+- Add more examples.
+- Elaborate stuff.
 - Provide the most elaborate whys, but hide them away from plain sight to avoid distraction.
 
