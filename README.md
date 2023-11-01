@@ -82,7 +82,7 @@ private static readonly Dictionary _commandToAliasRelations = new();
 ### Commenting
 Ideally, the code should be written so that it is self-commenting.
 
-If this is not possible, prefer to append comments directly on the same line as the relevant code
+If this is not possible, prefer to append comments directly on the same line as the relevant code, even if it's a lengthy one.
 
 ```csharp
 int someMysteriousPieceOfCode = 1; // Good
