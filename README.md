@@ -19,6 +19,7 @@ Focus is on code that is:
 - Local variable names can be abbreviated only if the context to understand the abbreviation from is within same scope.
 - Prefix private class members with an underscore '_'
 - Try to section properties wherever possible (by sectioning I mean, separate a wall of rows into sensible groups of rows using line breaks (see example: TODO).
+- Commenting should always be done inline vs. on a separate line, with these [exceptions (TODO)](todo). Comments that are not separated by a line break should be aligned for ease of read.
 
 ## Examples
 ### Naming conventions
