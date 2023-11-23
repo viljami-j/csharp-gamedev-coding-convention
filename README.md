@@ -20,6 +20,8 @@ Focus is on code that is:
 - Prefix private class members with an underscore '_'
 - Try to section properties wherever possible (by sectioning I mean, separate a wall of rows into sensible groups of rows using line breaks (see example: TODO).
 - Commenting should always be done inline vs. on a separate line, with these [exceptions (TODO)](todo). Comments that are not separated by a line break should be aligned for ease of read.
+- One-line enums (todo: add example)
+
 
 ## Examples
 ### Naming conventions
@@ -27,6 +29,8 @@ TODO (for now, see general rules)
 
 ### Indentation
 TODO: add a write up of indentation rules right here.
+
+Indentation format (align these): {attributes} {keywords} {varType} {varName} {operator} {value};
 
 Note: I acknowledge these recommendations may come off as cursed, but see the difference and judge for yourself.
 
