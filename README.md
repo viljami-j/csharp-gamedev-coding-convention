@@ -30,7 +30,8 @@ TODO (for now, see general rules)
 ### Indentation
 TODO: add a write up of indentation rules right here.
 
-Indentation format (align these): {attributes} {keywords} {varType} {varName} {operator} {value};
+Indentation format (align everything enclosed in braces, provided they're not separated by a line break): 
+```{attributes} {keywords} {varType} {varName} {operator} {value};```
 
 Note: I acknowledge these recommendations may come off as cursed, but see the difference and judge for yourself.
 
